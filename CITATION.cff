@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you reference or build upon this work, please cite it as below."
+title: "Human–AI Collaboration Constitution"
+abstract: >-
+  A concise, principled charter for working with AI systems on scholarly,
+  professional, and software-engineering work. It comprises a preamble, seven
+  articles, and a final principle, organized around the conviction that
+  responsibility for intellectual work is non-delegable and must remain with a
+  human author. Informed by established AI-governance instruments including the
+  EU AI Act, the European Commission's Ethics Guidelines for Trustworthy AI, and
+  the OECD AI Principles.
+type: generic
+authors:
+  - given-names: Kunal
+    family-names: Suri
+    orcid: "https://orcid.org/0000-0002-2341-5343"
+    affiliation: "CEA LIST"
+version: "1.0"
+date-released: "2026-06-12"
+license: CC-BY-4.0
+url: "https://github.com/kunalsuri/human-ai-collaboration-constitution"
+repository-code: "https://github.com/kunalsuri/human-ai-collaboration-constitution"
+keywords:
+  - artificial intelligence
+  - responsible AI
+  - AI governance
+  - human oversight
+  - research integrity
+  - software development lifecycle
+  - human-AI collaboration
+  - accountability
